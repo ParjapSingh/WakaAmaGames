@@ -7,7 +7,7 @@ Then click on show results to view all results for the year,
 Once you scroll down you have an option to export the results into a csv file which can be viewed using MS Excel,   
 
 # Additonal Notes
-Make sure the program, and the files are all in the same folder, 
-This program only filters for final lif files and no other files, 
-Make sure the folder with the lif files is named WakaNats(year) , 
-Make sure the lif files follow the naming convention Waka Ama provides
+Make sure the program, and the files are all in the same folder,  
+This program only filters for final lif files and no other files,  
+Make sure the folder with the lif files is named WakaNats(year) ,  
+Make sure the lif files follow the naming convention Waka Ama provides  
